@@ -2,10 +2,20 @@ h1 {
     font-family: 'Poppins', sans-serif;
 }
 
-.jumbotron-fluid {
-    background-color: aqua;
+.head {
+    background-color: cornflowerblue;
 }
 
 .btn {
     background-color: aqua;
+}
+
+.card {
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+}
+
+.forecast {
+    background-color: cornflowerblue;
 }
